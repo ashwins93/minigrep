@@ -1,0 +1,16 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#5ec267",
+    "statusBar.background": "#41ac4b",
+    "statusBar.debuggingBackground": "#ac41a2",
+    "statusBar.debuggingForeground": "#e7e7e7",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#33873b",
+    "statusBarItem.remoteBackground": "#41ac4b",
+    "statusBarItem.remoteForeground": "#15202b"
+  },
+  "peacock.color": "#41ac4b",
+  "github.copilot.enable": {
+    "*": false
+  }
+}
